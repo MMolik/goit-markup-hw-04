@@ -137,7 +137,7 @@ body {
   letter-spacing: 0.02em;
   word-wrap: break-word;
   box-sizing: content-box;
-  text-align: center;
+  text-align: left;
 }
 .head-first-tag {
   font-size: 56px;
@@ -179,7 +179,7 @@ body {
   line-height: 24px;
   letter-spacing: 0.4px;
   word-wrap: break-word;
-  text-align: center;
+  text-align: left;
   margin-bottom: 8px;
 }
 .head-two-tag {
@@ -399,4 +399,29 @@ img {
   text-decoration: none;
   margin-right: 76px;
   display: inline-block;
+}
+.team-socials {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+  margin-top: 8px;
+  list-style: none;
+}
+.team-socials-items {
+}
+.list-strategy-items {
+  
+}
+.list-strategy {
+
+
+}
+.main-icons {
+background-color: var(--cloud);
+}
+.main-icons-container {
+  display: flex;
+  justify-content:center;
+  margin-bottom: 8px;
+  
 }
