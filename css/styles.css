@@ -499,16 +499,16 @@ img {
   border: 1px var(--ocean) solid;
   border-color: var(--ocean);
 }
-.main-footer-container {
-  display: flex;
-  justify-content:center;
-  flex-direction: column;
-  align-items:center;
-  width: 1158px;
-
-
+.footer-main-container {
+display: flex;
+align-items: baseline;
 
 }
+.footer-logo {
+  margin-right: 120px;
+}
+
+
 .footer-paragraph {
   color:var(--white);
 font-size: 16px;
