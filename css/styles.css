@@ -571,7 +571,7 @@ img {
   fill: var(--cloud);
 }
 .button-portfolio-link {
-  display: block;
+
 }
 .button-portfolio:hover {
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
