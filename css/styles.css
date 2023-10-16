@@ -480,10 +480,8 @@ img {
 }
 .customers-logo-list {
   border-radius: 4px;
-  border: 1px #8e8f99 solid;
-  width: 168px;
-  height: 88px;
-  fill: currentColor;
+
+  
 }
 .vector-team-socials {
   fill: var(--cloud);
