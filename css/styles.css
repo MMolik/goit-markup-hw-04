@@ -69,7 +69,6 @@ body {
   margin-right: 76px;
   margin-bottom: 16px;
   display: inline-block;
-  padding-top: 24px;
 }
 .logo-studio {
   color: var(--dark);
@@ -280,8 +279,6 @@ body {
   display: flex;
   justify-content: flex-start;
   gap: 40px;
-  padding-bottom: 24px;
-  padding-top: 24px;
 }
 .visually-hidden {
   position: absolute;
